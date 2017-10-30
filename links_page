@@ -1,0 +1,10 @@
+<!--Code Written By Benjamin Sachs D.-->
+<head>
+    <link rel="stylesheet" type="text/css" href="PENPAL/forumPage/forumPage.css">
+        <script src="PENPAL/forumPage/forumPage.js"></script>
+        <body>
+            <h1>Prototype Links Page for <ul></ul>PenPal</h1>
+            <a href="https://discord.gg/Ajk3Kr6">Get HIP! Discord</a>
+            <a href="https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail">Wikipedia Page for <i>Monty Python and the Holy Grail</i> Because its a Good Movie</a>
+        </body>
+</head>
